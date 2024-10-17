@@ -1,3 +1,7 @@
+//import zad1.Person;
+import zad1A.Book;
+import zad1B.Person;
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -20,14 +24,14 @@ public class Main {
        }*/
 
     //-------------------------------------------------
-        ArrayList<Double> listaLiczbZmiennoprzecinkowych = new ArrayList<>();
-        ArrayList<Integer> listaLiczbCalkowitych = new ArrayList<>();
-        for(double i = 3; i<7; i++) {
-            listaLiczbZmiennoprzecinkowych.add(i);
-        }
-        listaLiczbCalkowitych.add(0);
-        listaLiczbCalkowitych.add(0);
-        listaLiczbCalkowitych.add(1);
+//        ArrayList<Double> listaLiczbZmiennoprzecinkowych = new ArrayList<>();
+//        ArrayList<Integer> listaLiczbCalkowitych = new ArrayList<>();
+//        for(double i = 3; i<7; i++) {
+//            listaLiczbZmiennoprzecinkowych.add(i);
+//        }
+//        listaLiczbCalkowitych.add(0);
+//        listaLiczbCalkowitych.add(0);
+//        listaLiczbCalkowitych.add(1);
 
 //        System.out.println(ListyTablicoweTest.average(listaLiczbZmiennoprzecinkowych));
 //        System.out.println(ListyTablicoweTest.countZeros(listaLiczbCalkowitych));
@@ -39,11 +43,35 @@ public class Main {
 //        System.out.println(ListyTablicoweTest.odwrocNapis(napis));
 //        System.out.println(ListyTablicoweTest.napisZaczynaIKonczy("AsdasA"));
 
-        Scanner scanner = new Scanner(System.in);
-        System.out.print("Wprowadź znak: ");
-        String znak = scanner.nextLine();
-        System.out.print("Wprowadź liczbę: ");
-        int liczba = scanner.nextInt();
-        ListyTablicoweTest.choinka(znak, liczba);
+//        Scanner scanner = new Scanner(System.in);
+//        System.out.print("Wprowadź znak: ");
+//        String znak = scanner.nextLine();
+//        System.out.print("Wprowadź liczbę: ");
+//        int liczba = scanner.nextInt();
+//        ListyTablicoweTest.choinka(znak, liczba);
+        //-----------------------------------------------------------
+        //Zajęcia 2._________________________________________________
+        //zad1.Person p1 = new Person();
+        //p1.imie = "Andrzej";
+        //p1.nazwisko = "Kowalski";
+        //p1.wiek = 24;
+        //p1.rok = 2;
+        //-----------------------------------------------------------
+
+//        zad1A.Book b1 = new Book();
+//
+//        zad1A.Book b2 = new Book("Test2", "Test2 T. the Test2", 1000);
+//
+//        b1.title = "Test";
+//        b1.author = "Test T. the Test";
+//        b1.publicationYear = 2000;
+//
+//        System.out.println(b1.author);
+//        System.out.println(b2.author);
+
+        //-----------------------------------------------------------
+
+        zad1B.Person p2 = new Person("Andrzej", "Duda");
+        System.out.println(p2.firstName);
     }
 }
