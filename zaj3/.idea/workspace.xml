@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c9ef21ee-fdfd-43ee-9a7f-d966fb6fa4b1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/zad1/Mathematics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zad2/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zad3/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zad4/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zad5/Results.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zaj2/out/production/zaj2/zad1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zaj2/out/production/zaj2/zad1/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zaj2/out/production/zaj2/zad1/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zaj2/src/zad1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zaj2/src/zad1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zaj2/src/zad1/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zaj2/src/zad1/Person.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2nt4eYNfIATGLz4RW9GVYUhLiRZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/175271/java/zaj3",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9ef21ee-fdfd-43ee-9a7f-d966fb6fa4b1" name="Changes" comment="" />
+      <created>1729779134551</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729779134551</updated>
+      <workItem from="1729779135932" duration="11000" />
+      <workItem from="1729781213130" duration="15000" />
+      <workItem from="1729781248709" duration="346000" />
+      <workItem from="1729781616182" duration="10000" />
+      <workItem from="1729781659040" duration="45000" />
+      <workItem from="1729781717104" duration="40000" />
+      <workItem from="1729781774564" duration="709000" />
+      <workItem from="1729782624707" duration="2875000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
