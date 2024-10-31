@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9ef21ee-fdfd-43ee-9a7f-d966fb6fa4b1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/zad1/Mathematics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zad2/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zad3/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zad4/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zad5/Results.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../zaj2/out/production/zaj2/zad1/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../zaj2/out/production/zaj2/zad1/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zaj2/out/production/zaj2/zad1/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../zaj2/src/zad1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zaj2/src/zad1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../zaj2/src/zad1/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zaj2/src/zad1/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zad5/Results.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zad5/Results.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,18 +34,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/175271/java/zaj3",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/175271/java/zaj3&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -69,6 +62,7 @@
       <workItem from="1729781717104" duration="40000" />
       <workItem from="1729781774564" duration="709000" />
       <workItem from="1729782624707" duration="2875000" />
+      <workItem from="1730386527762" duration="449000" />
     </task>
     <servers />
   </component>
