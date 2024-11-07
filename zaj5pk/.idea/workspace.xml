@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="840ce28f-4023-4fc5-a16e-00bc0bd2f58b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/zad3/PointC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zad5/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zad5/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1730991025754</updated>
       <workItem from="1730991028241" duration="34000" />
-      <workItem from="1730991117532" duration="5368000" />
+      <workItem from="1730991117532" duration="6749000" />
     </task>
     <servers />
   </component>

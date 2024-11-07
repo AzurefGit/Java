@@ -1,21 +1,24 @@
 package zad5;
 
-public record Student(String imie, String nazwisko, int[] listaOcen) {
-    public void averageGrades(int[] oceny){
+import java.lang.reflect.Array;
+import java.util.ArrayList;
+
+public record Student(String imie, String nazwisko, ArrayList<Double> listaOcen) {
+    public void averageGrades(){
         double suma = 0;
-        for(int i = 0; i < oceny.length; i++){
-            suma += oceny[i];
+        for(int i = 0; i < listaOcen.size(); i++){
+            suma += listaOcen.get(i);
         }
-        System.out.println(suma/oceny.length);
+        System.out.println(suma/listaOcen.size());
     }
 }
 
 class Main{
     public static void main(String[] args) {
-        int[] oceny = new int[3];
-        for(int i = 0; i < oceny.length; i++){
-            oceny[i] = i+1;
-        }
+        ArrayList<Double> oceny = new ArrayList<Double>();
+        oceny.add(5.0);
+        oceny.add(3.0);
+        oceny.add(5.0);
         Student s1 = new Student("Jan", "Janowski", oceny);
 
         s1.averageGrades();
