@@ -41,16 +41,4 @@ public class Computer {
         return super.toString();
     }
 
-    @Override
-    public boolean equals(Object o) {
-        if (this == o) return true;
-        if (o == null || getClass() != o.getClass()) return false;
-        Computer computer = (Computer) o;
-        return Objects.equals(getManufacturer(), computer.getManufacturer()) && Objects.equals(getModel(), computer.getModel()) && Objects.equals(getPartsPrices(), computer.getPartsPrices());
-    }
-
-    @Override
-    public int hashCode() {
-        return Objects.hash(getManufacturer(), getModel(), getPartsPrices());
-    }
 }
