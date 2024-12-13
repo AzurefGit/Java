@@ -40,7 +40,7 @@ public class Pracownik {
 
     @Override
     public String toString() {
-        return "imie=" + imie + ", pensja= " + pensja + " Data z: " + dataZatrudnienia;
+        return "imie=" + imie + ", pensja= " + pensja + " Data z: " + dataZatrudnienia + '\n';
     }
 
     public static void main(String[] args) {
@@ -51,17 +51,13 @@ public class Pracownik {
         pracownicy[3] = new Pracownik("Piotr", 3500.00, LocalDate.of(2017, 11, 22));
         pracownicy[4] = new Pracownik("Tomasz", 6000.00, LocalDate.of(2016, 7, 5));
 
-        for (Pracownik pracownik : pracownicy) {
-            System.out.println(pracownik);
-        }
 
-         Arrays.sort(pracownicy, new PracownikComparator());
+        System.out.println(Arrays.toString(pracownicy));
 
+        Arrays.sort(pracownicy, new PracownikComparator());
             System.out.println();
 
-        for (Pracownik pracownik : pracownicy) {
-            System.out.println(pracownik);
-        }
-        //Arrays.ToString...
+        System.out.println(Arrays.toString(pracownicy));
+
     }
 }
