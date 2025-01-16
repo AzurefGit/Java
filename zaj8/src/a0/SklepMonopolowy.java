@@ -7,8 +7,8 @@ public class SklepMonopolowy {
         }catch (IllegalArgumentException e){
             e.printStackTrace();
             System.out.println(e);
-        }catch(e1){
-            System.out.println(e1);
+//        }catch(e1){
+//            System.out.println(e1);
         }
     }
     public static void sprzedajCos() throws IllegalArgumentException{

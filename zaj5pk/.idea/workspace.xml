@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="840ce28f-4023-4fc5-a16e-00bc0bd2f58b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zad5/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zad5/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +37,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/175271/Java/zaj4",
+    "last_opened_file_path": "D:/175271/Java/zaj6",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -55,6 +54,8 @@
       <updated>1730991025754</updated>
       <workItem from="1730991028241" duration="34000" />
       <workItem from="1730991117532" duration="6749000" />
+      <workItem from="1737039118337" duration="285000" />
+      <workItem from="1737041045388" duration="20000" />
     </task>
     <servers />
   </component>
