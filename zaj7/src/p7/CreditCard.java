@@ -52,8 +52,7 @@ public class CreditCard implements Cloneable{
     }
 
     public static void main(String[] args) {
-        CreditCard creditCard1 = new CreditCard("231", "aA", LocalDate.of(2020,1,1));
-
+        CreditCard creditCard1 = new CreditCard("213098210983", "AAbb", LocalDate.of(2022,01,01));
         CreditCard creditCard2 = null;
 
         try{

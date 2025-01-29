@@ -53,13 +53,13 @@ public class Smartphone implements Cloneable{
     }
 
     public static void main(String[] args) {
-        Smartphone s1 = new Smartphone("b","1", new Date(2020,Calendar.DECEMBER,21));
-
+        Smartphone s1 = new Smartphone("a", "b", new Date(2020,Calendar.DECEMBER,01));
         Smartphone s2 = null;
+
         try{
             s2 = (Smartphone) s1.clone();
-        } catch (CloneNotSupportedException e) {
-            System.out.println("N u s s...");;
+        }catch (CloneNotSupportedException e){
+            System.out.println("ssss");
         }
 
         s2.productionDate = new Date(2024, Calendar.JANUARY,1);
